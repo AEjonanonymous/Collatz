@@ -35,5 +35,3 @@ Once the $m$ layers of complexity are filtered out, **$1$ is the only mathematic
 * **Language:** Lean 4
 * **File:** `Collatz_#1.lean`
 ---
-
-Would you like me to help you format a `CONTRIBUTING.md` file to encourage other mathematicians to review your proof?
