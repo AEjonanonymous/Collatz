@@ -1,8 +1,8 @@
 import Lake
 open Lake DSL
 
-package «collatz» where
+package «Collatz» where
 
 @[default_target]
-lean_lib «collatz» where
+lean_lib «Collatz» where
   srcDir := "."
