@@ -1,0 +1,15 @@
+{
+  "challenge_file": "Challenge.lean",
+  "solution_file": "Solution.lean",
+  "permitted_axioms": [
+    "propext",
+    "Quot.sound",
+    "Classical.choice"
+  ],
+  "theorem_names": [
+    "universal_balance",
+    "uniqueness_of_residue",
+    "terminal_state",
+    "odd_power_of_two_is_one"
+  ]
+}
