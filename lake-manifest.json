@@ -81,5 +81,5 @@
    "inputRev": "v4.26.0",
    "inherited": true,
    "configFile": "lakefile.toml"}],
- "name": "mathlib",
+ "name": "Collatz",
  "lakeDir": ".lake"}
