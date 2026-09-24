@@ -3,6 +3,9 @@ open Lake DSL
 
 package «Collatz» where
 
+require mathlib from git
+  "https://github.com/leanprover-community/mathlib4.git" @ "v4.26.0"
+
 @[default_target]
-lean_lib «Collatz» where
+lean_lib «Collatz_#1» where
   srcDir := "."
